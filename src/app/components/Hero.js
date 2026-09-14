@@ -55,7 +55,9 @@ export default function Hero() {
           {/* Nav CTA Button */}
         </nav>
         <a
-          href="#start-project"
+          href="https://wa.me/2348138540575"
+          target="_blank"
+          rel="noopener noreferrer"
           className="bg-[#F4BE19] text-black font-bold text-xs uppercase px-5 py-3.5 tracking-wider hover:bg-[#e0ac13] transition-colors"
         >
           START A PROJECT
@@ -83,7 +85,9 @@ export default function Hero() {
 
           {/* Primary CTA Button */}
           <a
-            href="#consultation"
+            href="https://wa.me/2348138540575"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block bg-[#F4BE19] text-black font-extrabold text-xs uppercase px-6 py-4 tracking-wider hover:bg-[#e0ac13] transition-colors"
           >
             BOOK A FREE CONSULTATION

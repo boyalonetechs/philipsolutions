@@ -41,7 +41,9 @@ export default function GetInTouch() {
 
           {/* CTA Button */}
           <a
-            href="#start-project"
+            href="https://wa.me/2348138540575"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block bg-[#F4BE19] text-black font-extrabold text-xs uppercase px-6 py-4 tracking-wider hover:bg-[#e0ac13] transition-colors"
           >
             START A PROJECT
