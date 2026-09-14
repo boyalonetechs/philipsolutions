@@ -68,7 +68,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm text-gray-300">
               <li>
                 <a
-                  href="https://tiktok.com"
+                  href="https://www.tiktok.com/@realphilip1?_r=1&_t=ZS-99j1gENjJIb"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
@@ -78,7 +78,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/realphilip001?stkn=bm9jdHluaXp6bXJx"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
@@ -100,7 +100,15 @@ export default function Footer() {
                   href="tel:+2348138540575"
                   className="hover:text-white transition-colors"
                 >
-                  +234 813 854 0575
+                  08138540575
+                </a>
+              </li>
+              <li>
+                <a
+                  href="mailto:philipsolution1@gmail.com"
+                  className="hover:text-white transition-colors"
+                >
+                  philipsolution1@gmail.com
                 </a>
               </li>
               <li className="text-gray-400 font-medium">LAGOS, NIGERIA</li>
